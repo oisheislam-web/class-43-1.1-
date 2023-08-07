@@ -748,3 +748,31 @@ a{
 
 /* ========= Navbar Part Start Here ========= */
 /* ========= Navbar Part End Here ========= */
+
+
+
+
+/* .circle_main{
+    height: 200px;
+    position: relative;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(-50%,-50%);
+    border: 5px solid #694fec;
+    animation: circle 3s linear infinite alternate;
+}
+@keyframes circle{
+    form{
+        width: 50px;
+        height: 50px;
+    }to{
+        width: 150px;
+        height: 150px;
+    }
+} */
